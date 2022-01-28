@@ -1,4 +1,4 @@
-title: Algorand Developer Docs
+title: Klaytn Developer Docs
 
 # Top-level sections
 <ul class="docs-homepage__card-list">
@@ -8,7 +8,7 @@ title: Algorand Developer Docs
                 <span class="create-smart-contract-overview-icon"></span>
             </div>
             <p class="docs-homepage__card__title text-gray--main typography--large-button">Get started</p>
-            <p class="typography--regular-body docs-homepage__card__description">Start here to learn the basics</p>
+            <p class="typography--regular-body docs-homepage__card__description">Learn the basics of Klaytn</p>
         </a>
     </li>
     <li class="docs-homepage__card-list-item">
@@ -17,7 +17,7 @@ title: Algorand Developer Docs
                 <span class="stateless-smart-contracts-icon"></span>
             </div>
             <p class="docs-homepage__card__title text-gray--main typography--large-button">Get details</p>
-            <p class="typography--regular-body docs-homepage__card__description">In-depth guides and explanations of all features</p>
+            <p class="typography--regular-body docs-homepage__card__description">In-depth guides and explanations of Klaytn's features</p>
         </a>
     </li>
     <li class="docs-homepage__card-list-item">
@@ -39,8 +39,8 @@ title: Algorand Developer Docs
             <div class="docs-homepage__card__icon-container docs-homepage__card__icon-container--turquoise">
                 <span class="payment-with-algos-icon"></span>
             </div>
-            <p class="docs-homepage__card__title text-gray--main typography--large-button">The AVM</p>
-            <p class="typography--regular-body docs-homepage__card__description">The Algorand Virtual Machine</p>
+            <p class="docs-homepage__card__title text-gray--main typography--large-button">Ethereum Environment</p>
+            <p class="typography--regular-body docs-homepage__card__description">Ethereum Equivalence</p>
         </a>
     </li>
     <li class="docs-homepage__card-list-item">
@@ -48,8 +48,8 @@ title: Algorand Developer Docs
             <div class="docs-homepage__card__icon-container docs-homepage__card__icon-container--turquoise">
                 <span class="payment-with-algos-icon"></span>
             </div>
-            <p class="docs-homepage__card__title text-gray--main typography--large-button">PyTeal</p>
-            <p class="typography--regular-body docs-homepage__card__description">Write smart contracts with Python</p>
+            <p class="docs-homepage__card__title text-gray--main typography--large-button">Service Chain</p>
+            <p class="typography--regular-body docs-homepage__card__description">Your private blockchain</p>
         </a>
     </li>
     <li class="docs-homepage__card-list-item">
@@ -57,8 +57,8 @@ title: Algorand Developer Docs
             <div class="docs-homepage__card__icon-container docs-homepage__card__icon-container--turquoise">
                 <span class="payment-with-algos-icon"></span>
             </div>
-            <p class="docs-homepage__card__title text-gray--main typography--large-button">WalletConnect</p>
-            <p class="typography--regular-body docs-homepage__card__description">Integrate mobile wallets with dApps</p>
+            <p class="docs-homepage__card__title text-gray--main typography--large-button">Wallets</p>
+            <p class="typography--regular-body docs-homepage__card__description">Integrate wallets with dApps</p>
         </a>
     </li>
         <li class="docs-homepage__card-list-item">
